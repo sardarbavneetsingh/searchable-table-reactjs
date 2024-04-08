@@ -9,3 +9,5 @@ The key steps are:
 5. Implement two-way data flow between the state and the UI
 
 This is an example of building a searchable product data table, demonstrating how to apply these principles. It it implements topics like one-way data flow, the difference between props and state, and how to pass callbacks from parent to child components to enable updating the state.
+
+*Source: [Thinking in React](https://react.dev/learn/thinking-in-react)*
